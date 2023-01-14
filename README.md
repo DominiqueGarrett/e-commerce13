@@ -11,13 +11,10 @@ Module 13 Challenge Assignment: Object-Relational Mapping (ORM) Challenge: E-com
   * [Description](#description)
   * [User Story](#user-story)
   * [Acceptance Criteria](#user-story)
-  * [Installation](#installation)
-  * [Setup](#setup)
-  * [Usage](#usage)
+  * [Installation/Setup](#installation/setup)
   * [Screenshots of Application in Use](#screenshots-of-application-in-use)
   * [Technologies](#technologies)
   * [How to Contribute](#how-to-contribute)
-  * [Tests](#tests)
   * [Questions?](#questions)
 
 
@@ -27,6 +24,7 @@ Module 13 Challenge Assignment: Object-Relational Mapping (ORM) Challenge: E-com
 
 
 ## Description
+This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations. Then demonstrates the API Routes to perform RESTful CRUD operations displayed in my walk through videos.
 
 
 ## User Story
@@ -49,14 +47,14 @@ Module 13 Challenge Assignment: Object-Relational Mapping (ORM) Challenge: E-com
     THEN I am able to successfully create, update, and delete data in my database
 
 
-## Installation
+## Installation/Setup
+```
+npm i
 
+npm run seed
 
-## Setup
-
-
-## Usage
-
+npm start
+```
 
 ## Screenshots of Application in Use
 
