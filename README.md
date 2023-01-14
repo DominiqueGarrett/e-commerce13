@@ -71,11 +71,8 @@ The final animation shows the POST, PUT, and DELETE routes for categories being 
 ## Technologies
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com)
-* [Handlebars Template Engine](https://handlebarsjs.com)
-* [Bcrypt](https://www.npmjs.com/package/bcrypt)
 * [Sequelize](https://sequelize.org)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
-* [Heroku](https://devcenter.heroku.com/start)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
