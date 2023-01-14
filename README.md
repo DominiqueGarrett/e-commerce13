@@ -56,7 +56,16 @@ npm run seed
 npm start
 ```
 
+
 ## Screenshots of Application in Use
+The first animation shows GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
+![image](https://user-images.githubusercontent.com/114618684/212467792-262f172e-5e2a-431f-9270-7f573c6e552b.gif)
+
+The second animation shows GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core:
+![image](https://user-images.githubusercontent.com/114618684/212467855-8ae65af4-6bf4-4cc6-a852-a9bc9842083b.gif)
+
+The final animation shows the POST, PUT, and DELETE routes for categories being tested in Insomnia Core:
+![image](https://user-images.githubusercontent.com/114618684/212467889-ef7bb652-ebe2-4902-9a89-a2adfaea63e4.gif)
 
 
 ## Technologies
